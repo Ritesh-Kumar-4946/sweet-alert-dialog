@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ritesh/AndroidStudioProjects/xxxxxx/sweet-alert-dialog/sample/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.jpg",
+        "source": "/home/ritesh/AndroidStudioProjects/xxxxxx/sweet-alert-dialog/sample/src/main/res/drawable-hdpi/ic_launcher.jpg"
+    },
+    {
+        "merged": "/home/ritesh/AndroidStudioProjects/xxxxxx/sweet-alert-dialog/sample/build/intermediates/res/merged/debug/drawable-hdpi-v4/custom_img.jpg",
+        "source": "/home/ritesh/AndroidStudioProjects/xxxxxx/sweet-alert-dialog/sample/src/main/res/drawable-hdpi/custom_img.jpg"
+    }
+]

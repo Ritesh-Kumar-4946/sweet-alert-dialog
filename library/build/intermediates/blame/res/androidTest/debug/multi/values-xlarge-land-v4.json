@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/ritesh/AndroidStudioProjects/xxxxxx/sweet-alert-dialog/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/home/ritesh/.android/build-cache/e816bd05af6304fa02b2e953dd74a751e0848bf5/output/res/values-xlarge-land/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 63,
+                        "endOffset": 115
+                    }
+                }
+            }
+        ]
+    }
+]

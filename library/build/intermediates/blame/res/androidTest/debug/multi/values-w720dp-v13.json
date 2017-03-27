@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/ritesh/AndroidStudioProjects/xxxxxx/sweet-alert-dialog/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/home/ritesh/.android/build-cache/e816bd05af6304fa02b2e953dd74a751e0848bf5/output/res/values-w720dp/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 76,
+                        "endOffset": 128
+                    }
+                }
+            }
+        ]
+    }
+]

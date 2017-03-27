@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/47f6dbb5c049f415bb7c4bd082d99c2d8d94eac8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/sweet-alert-dialog/sample/build/intermediates/pre-dexed/debug/classes_82a64bffdb1407c12411fefb7d56d76d9a16c7bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/AndroidStudioProjects/xxxxxx/sweet-alert-dialog/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f2c0932b01eacdab7d1601dea626648e2d221d0">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/sweet-alert-dialog/sample/build/intermediates/pre-dexed/debug/classes_fdd45c0fbd53583a70052301c97619fd09c7bcd2.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/ritesh/AndroidStudioProjects/xxxxxx/sweet-alert-dialog/library/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/ritesh/.android/build-cache/e816bd05af6304fa02b2e953dd74a751e0848bf5/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/ritesh/AndroidStudioProjects/xxxxxx/sweet-alert-dialog/library/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/ritesh/.android/build-cache/e816bd05af6304fa02b2e953dd74a751e0848bf5/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/ritesh/AndroidStudioProjects/xxxxxx/sweet-alert-dialog/library/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/ritesh/.android/build-cache/e816bd05af6304fa02b2e953dd74a751e0848bf5/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/ritesh/AndroidStudioProjects/xxxxxx/sweet-alert-dialog/library/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/ritesh/.android/build-cache/e816bd05af6304fa02b2e953dd74a751e0848bf5/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/ritesh/AndroidStudioProjects/xxxxxx/sweet-alert-dialog/library/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/ritesh/.android/build-cache/e816bd05af6304fa02b2e953dd74a751e0848bf5/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/ritesh/AndroidStudioProjects/xxxxxx/sweet-alert-dialog/library/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/ritesh/.android/build-cache/e816bd05af6304fa02b2e953dd74a751e0848bf5/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/ritesh/AndroidStudioProjects/xxxxxx/sweet-alert-dialog/library/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/ritesh/.android/build-cache/e816bd05af6304fa02b2e953dd74a751e0848bf5/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/ritesh/AndroidStudioProjects/xxxxxx/sweet-alert-dialog/library/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/ritesh/.android/build-cache/e816bd05af6304fa02b2e953dd74a751e0848bf5/output/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/ritesh/AndroidStudioProjects/xxxxxx/sweet-alert-dialog/library/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/ritesh/.android/build-cache/e816bd05af6304fa02b2e953dd74a751e0848bf5/output/res/color/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
